@@ -4,7 +4,7 @@
 **Author:** Rogério Figurelli  
 **Date:** May 1, 2025
 
-### Executive Summary
+### Executive Summary 
 FAIR is conceived as a specialized application within a broader architectural archetype known as SIGMA — Semantic Intelligence for Global Market Analytics [1]. SIGMA defines a modular, LLM-augmented approach to building interpretable, AI-aware financial indices. While SIGMA provides the scaffolding for multi-domain signal fusion, FAIR focuses specifically on the detection of narrative-driven risks to price discovery and fairness.
 The FAIR framework centers on leveraging large language models (LLMs) to interpret market narratives, detect coordinated information strategies, and identify anomalies in tone, coherence, or amplification across media streams. These capabilities form the core of its textual intelligence layer, which underpins and connects with other surveillance signals in the architecture.
 
